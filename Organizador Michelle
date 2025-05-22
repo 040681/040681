@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Organizador Psicológico – Michelle Marla</title>
+<style>
+body {font-family: Arial; background: linear-gradient(to bottom right, #e0c3fc, #8ec5fc); margin: 0; padding: 0;}
+header {background-color: #9b59b6; color: white; padding: 20px; text-align: center;}
+main {display: flex; flex-direction: column; align-items: center; padding: 30px;}
+.card {background: white; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px; padding: 25px; width: 90%; max-width: 600px; text-align: center;}
+.card button {padding: 10px 20px; background-color: #ab47bc; border: none; border-radius: 10px; color: white; font-weight: bold; cursor: pointer;}
+.card button:hover {background-color: #8e24aa;}
+</style>
+</head>
+<body>
+<header>
+  <h1>Michelle Marla Oliveira</h1>
+  <p>CRP 11/23832 | Psicologia Hospitalar | psimichellemarla@gmail.com | (85) 99244-4075</p>
+</header>
+<main>
+  <div class="card">
+    <h2>Ficha de Avaliação</h2>
+    <button onclick="window.location.href='ficha-avaliacao.html'">Abrir Ficha</button>
+  </div>
+  <div class="card">
+    <h2>Evolução Psicológica</h2>
+    <button onclick="window.location.href='evolucao.html'">Abrir Evolução</button>
+  </div>
+  <div class="card">
+    <h2>Checklist de Anamnese</h2>
+    <button onclick="window.location.href='anamnese.html'">Abrir Anamnese</button>
+  </div>
+  <div class="card">
+    <h2>Ferramentas TCC</h2>
+    <button onclick="window.location.href='ferramentas-tcc.html'">Abrir Ferramentas</button>
+  </div>
+  <div class="card">
+    <h2>Termo de Consentimento</h2>
+    <button onclick="window.location.href='termo-consentimento.html'">Abrir Termo</button>
+  </div>
+  <div class="card">
+    <h2>Agenda de Atendimentos</h2>
+    <button onclick="window.location.href='agenda.html'">Abrir Agenda</button>
+  </div>
+  <div class="card">
+    <h2>Psicoeducações</h2>
+    <button onclick="window.location.href='psicoeducacao.html'">Abrir Psicoeducações</button>
+  </div>
+</main>
+</body>
+</html>
