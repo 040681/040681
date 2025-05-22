@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Termo de Consentimento</title>
+</head>
+<body style="font-family: Arial; background-color: #f3e5f5; padding: 20px;">
+<h2>Termo de Consentimento – Michelle Marla</h2>
+
+<p>Declaro que fui informado(a) sobre o atendimento psicológico realizado em ambiente hospitalar, seus objetivos, características, limitações e possibilidades. Autorizo a realização do acompanhamento psicológico durante minha internação.</p>
+
+<p>Assinatura do paciente: ____________________________</p>
+<p>Data: ___/___/____</p>
+
+<input type="submit" value="Salvar">
+
+</body>
+</html>
