@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ferramentas TCC</title>
+</head>
+<body style="font-family: Arial; background-color: #f3e5f5; padding: 20px;">
+<h2>Ferramentas TCC – Michelle Marla</h2>
+
+<h3>Registro de Pensamentos Automáticos</h3>
+<textarea rows="6" style="width:100%;" placeholder="Situação | Pensamento | Emoção | Reação | Reestruturação"></textarea><br><br>
+
+<h3>Roda das Emoções</h3>
+<p>Marque: Alegria | Tristeza | Medo | Raiva | Surpresa | Nojo</p>
+
+<h3>Escala de Ansiedade</h3>
+<p>De 0 a 10, quanto a ansiedade te atrapalha no momento?</p>
+<input type="range" min="0" max="10"><br><br>
+
+<h3>Plano de Ação</h3>
+<textarea rows="4" style="width:100%;" placeholder="Estratégias combinadas..."></textarea><br><br>
+
+<input type="submit" value="Salvar">
+
+</body>
+</html>
