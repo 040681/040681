@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agenda e Controle de Atendimentos</title>
+</head>
+<body style="font-family: Arial; background-color: #f3e5f5; padding: 20px;">
+<h2>Agenda e Controle de Atendimentos – Michelle Marla</h2>
+
+<table border="1" cellpadding="8" style="width:100%; background-color: white;">
+<tr>
+  <th>Data</th>
+  <th>Paciente</th>
+  <th>Setor</th>
+  <th>Motivo</th>
+  <th>Intervenção</th>
+  <th>Retorno?</th>
+</tr>
+
+<tr><td><input type="date"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="checkbox"></td></tr>
+<tr><td><input type="date"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="checkbox"></td></tr>
+<tr><td><input type="date"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="checkbox"></td></tr>
+
+</table>
+
+<p>*Adicione mais linhas conforme necessário preenchendo os campos acima.</p>
+
+</body>
+</html>
