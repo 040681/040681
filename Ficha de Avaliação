@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ficha de Avaliação Psicológica</title>
+</head>
+<body style="font-family: Arial; background-color: #f3e5f5; padding: 20px;">
+<h2>Ficha de Avaliação Psicológica – Michelle Marla</h2>
+
+<form>
+<label>Nome do(a) paciente:</label><br>
+<input type="text" style="width: 100%;"><br><br>
+
+<label>Idade:</label><br>
+<input type="text"><br><br>
+
+<label>Leito/Setor:</label><br>
+<input type="text"><br><br>
+
+<label>Motivo da internação:</label><br>
+<textarea rows="2" style="width: 100%;"></textarea><br><br>
+
+<label>Queixa emocional relatada:</label><br>
+<textarea rows="3" style="width: 100%;"></textarea><br><br>
+
+<label>Observações comportamentais:</label><br>
+<textarea rows="3" style="width: 100%;"></textarea><br><br>
+
+<label>Histórico de saúde mental:</label><br>
+<textarea rows="3" style="width: 100%;"></textarea><br><br>
+
+<label>Recursos de enfrentamento:</label><br>
+<textarea rows="3" style="width: 100%;"></textarea><br><br>
+
+<label>Suporte familiar:</label><br>
+<textarea rows="2" style="width: 100%;"></textarea><br><br>
+
+<label>Demanda observada:</label><br>
+<textarea rows="3" style="width: 100%;"></textarea><br><br>
+
+<label>Intervenções sugeridas:</label><br>
+<textarea rows="3" style="width: 100%;"></textarea><br><br>
+
+<label>Encaminhamentos:</label><br>
+<textarea rows="2" style="width: 100%;"></textarea><br><br>
+
+<input type="submit" value="Salvar">
+</form>
+
+</body>
+</html>
