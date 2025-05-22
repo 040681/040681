@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Checklist de Anamnese</title>
+</head>
+<body style="font-family: Arial; background-color: #f3e5f5; padding: 20px;">
+<h2>Checklist de Anamnese Hospitalar – Michelle Marla</h2>
+
+<form>
+<label><input type="checkbox"> Nome completo</label><br>
+<label><input type="checkbox"> Idade</label><br>
+<label><input type="checkbox"> Leito/Setor</label><br>
+<label><input type="checkbox"> Motivo da internação</label><br>
+<label><input type="checkbox"> História de internações anteriores</label><br>
+<label><input type="checkbox"> Diagnóstico médico</label><br>
+<label><input type="checkbox"> Queixa emocional</label><br>
+<label><input type="checkbox"> Apoio familiar disponível</label><br>
+<label><input type="checkbox"> Rede de apoio externa</label><br>
+<label><input type="checkbox"> Medo da cirurgia/procedimento</label><br>
+<label><input type="checkbox"> Compreende o próprio diagnóstico</label><br>
+<label><input type="checkbox"> Humor e sono na internação</label><br>
+<label><input type="checkbox"> Sintomas ansiosos</label><br>
+<label><input type="checkbox"> Ideação negativa</label><br>
+<label><input type="checkbox"> Estratégias de enfrentamento atuais</label><br>
+<label><input type="checkbox"> Necessidade de seguimento ambulatorial</label><br><br>
+
+<input type="submit" value="Salvar">
+</form>
+
+</body>
+</html>
